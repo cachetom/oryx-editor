@@ -2,14 +2,24 @@
   "name": "oryx-editor",
   "version": "0.1.1",
   "description": "",
-  "main": "index.js",
+  "main": "oryx.js",
+  "style": "css/editor.css",
   "directories": {
     "test": "test"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "homepage": "https://github.com/mamying/oryx-editor",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mamying/oryx-editor.git"
+  },
+  "keywords": [
+    "Oryx",
+    "editor",
+    "BPMN"
+  ],
   "author": "",
   "license": "ISC"
 }
